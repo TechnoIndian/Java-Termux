@@ -1,3 +1,6 @@
+# Modify By 🇮🇳 ࿗ Я͓̽K͓̽ ࿗ 🇮🇳
+# Created By h4ck3r0
+
 #!/data/data/com.termux/files/usr/bin/bash
 
 
@@ -61,9 +64,7 @@ else
  echo
  echo
  echo
- termux-open-url https://h4ck3r.me/
+ termux-open-url https://t.me/rktechnoindians
  echo
 
 fi
-
-
