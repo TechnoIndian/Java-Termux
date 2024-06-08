@@ -1,4 +1,4 @@
-# Modify By 🇮🇳 ࿗ Я͓̽K͓̽ ࿗ 🇮🇳
+# Modify By RK_TECHNO_INDIA
 # Created By h4ck3r0
 
 #!/data/data/com.termux/files/usr/bin/bash
