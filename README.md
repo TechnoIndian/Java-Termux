@@ -38,7 +38,7 @@
 ## INSTALLATION [Termux] :
 
 * ```bash
-apt-get update -y && apt-get upgrade -y && pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
+  apt-get update -y && apt-get upgrade -y && pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
 ```
 [+]-- proot java -version
 ```
@@ -52,4 +52,4 @@ apt-get update -y && apt-get upgrade -y && pkg install wget && wget https://gith
 ## CONNECT WITH US :
 
 <a </a>
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/termuxcoding3d8527)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
