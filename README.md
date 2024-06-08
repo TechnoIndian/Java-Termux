@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/h4ck3r0/Termux-banner"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://t.me/rktechnoindians"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## INSTALLATION [Termux] :
 
-* ```bash
+```bash
   apt-get update -y && apt-get upgrade -y && pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
 ```
 [+]-- proot java -version
