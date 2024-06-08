@@ -1,4 +1,4 @@
-# Java-termux
+# Java-Termux
 
 
 <p align="center">
@@ -37,22 +37,19 @@
 
 ## INSTALLATION [Termux] :
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh`
-
+* ```bash
+apt-get update -y && apt-get upgrade -y && pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
 ```
 [+]-- proot java -version
 ```
 ## Credits
 
+* Modify By 🇮🇳 ࿗ Я͓̽K͓̽ ࿗ 🇮🇳
+* Scripted By h4ck3r0
 * Build Java [Ghost](https://github.com/ghost)
 * For Deb [Xeffyr](https://github.com/xeffyr)
 
 ## CONNECT WITH US :
 
-<a href="https://github.com/h4ck3r0"><img title="Github" src="https://img.shields.io/badge/H4Ck3R-Raj-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/loginx202266fb40)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/h4ck3r-5064aa)
+<a </a>
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/termuxcoding3d8527)
-<a href="https://rebrand.ly/7elzgww"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
