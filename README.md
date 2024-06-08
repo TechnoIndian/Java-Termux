@@ -4,11 +4,7 @@
 <p align="center">
 <a href="https://github.com/h4ck3r0/Termux-banner"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
-<p align="center">
-<a href="https://github.com/h4ck3r0/Termux-banner"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-TermuxBanner-green.svg?style=flat-square"></a>
-<a href="https://github.com/h4ck3r0/Termux-banner"><img title="Version" src="https://img.shields.io/badge/Version-1.3-green.svg?style=flat-square"></a>
-<a href="https://github.com/h4ck3r0/Termux-banner"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a>
-</p>
+
 <p align="center">
 <p align="center">
  <a href=""><img src="https://user-images.githubusercontent.com/46929618/174643191-77dc1f24-ac45-48da-a285-d166b0979854.png" width="1000" hight="300"></a>
