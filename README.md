@@ -44,12 +44,12 @@
 ```
 ## Credits
 
-* Modify By 🇮🇳 ࿗ Я͓̽K͓̽ ࿗ 🇮🇳
+* Modify By [🇮🇳 ࿗ Я͓̽K͓̽ ࿗ 🇮🇳](https://t.me/RK_TECHNO_INDIA)
 * Scripted By h4ck3r0
 * Build Java [Ghost](https://github.com/ghost)
 * For Deb [Xeffyr](https://github.com/xeffyr)
 
 ## CONNECT WITH US :
 
-<a </a>
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
