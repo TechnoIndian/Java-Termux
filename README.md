@@ -21,7 +21,7 @@
 
 ## INSTALLATION [Termux] :
 
-```bash
+* ```bash
   apt-get update -y && apt-get upgrade -y && pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
 ```
 [+]-- proot java -version
